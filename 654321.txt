@@ -1,0 +1,10 @@
+ID:654321
+Rank:1 - Regular
+First Name:Someone
+Last Name:Else
+Group: SomeTeam
+
+
+
+
+
