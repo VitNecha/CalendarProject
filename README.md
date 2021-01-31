@@ -20,15 +20,15 @@ Requires registration. Made up accounts added to repository.
 >**Entry file:** LoginScreen
 >
 >**Available users:**
->ID: 305288
->Pass: 000000
->ID: 443908
->Pass: 000000
->ID: 666666
->Pass: 000000
->ID: 780012
->Pass: 333333
->ID: 888111
->Pass: 000000
+>
+>ID: *305288* Pass: *000000*
+>
+>ID: *443908* Pass: *000000*
+>
+>ID: *666666* Pass: *000000*
+>
+>ID: *780012* Pass: *333333*
+>
+>ID: *888111* Pass: *000000*
 
 **Preferably, should be compiled and executed via Microsoft Visual Studio.**
